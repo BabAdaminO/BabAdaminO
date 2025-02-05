@@ -14,8 +14,8 @@ I code in **five programming languages**:
 - 🟢 **Python** – Scripting & automation  
 
 ## 🌍 Connect with Me  
-- 🌐 **Website:** [sparkua.dev](https://sparkua.dev)  
-- 🎨 **Work with me:** [sparkua.dev/hire](https://sparkua.dev/art)  
+- 🌐 **Website:** [sparkua.io](https://sparkua.io)  
+- 🎨 **Work with me:** [sparkua.io/hire](https://sparkua.io/art)  
 - 📇 **More Links:** [bento.me/babadamino](https://bento.me/babadamino)  
 
 Thanks for stopping by! Feel free to explore!

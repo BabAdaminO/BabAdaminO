@@ -12,7 +12,7 @@ I code in **five programming languages**:
 - 🟠 **JavaScript** 
 - 🟢 **Python**
 ## 🌍 Connect with Me  
-- 🌐 **Portfolio:** [bit.ly/sparkua](https://bit.ly/sparkua)  
+- 🌐 **Portfolio:** [sparkua.neocities.org](https://sparkua.neocities.org)  
 - 📇 **More Links:** [bit.ly/m/babadamino](https://bit.ly/m/babadamino)  
 
 Thanks for stopping by!

@@ -1,18 +1,9 @@
-# 👋 Welcome to My GitHub!  
+# Welcome to My GitHub!  
 
-## 🚀 About Me  
-**Game Developer | Tech Enthusiast | 3D Modeler and the "Founder" of Sparkua** ✨**    
-I like making stuff in **Roblox Studio**, **Blender**, and **Unity**.
+## About Me
+**I collaborate on some well-known Roblox games, working on scripting and UI design. I sometimes make my own games, too!**    
+I speak English 🇺🇸 and Czech 🇨🇿, plus a bit of French 🇫🇷. I mainly use GitHub to explore other people’s projects.
 
-## 🛠️ Skills  (not much really)
-I code in **five programming languages**:  
-- 🟡 **Lua / Luau**
-- 🟣 **Go!**
-- 🔵 **HTML**
-- 🟠 **JavaScript** 
-- 🟢 **Python**
-## 🌍 Connect with Me  
-- 🌐 **Portfolio:** [sparkua.neocities.org](https://sparkua.neocities.org)  
-- 📇 **More Links:** [bit.ly/m/babadamino](https://bit.ly/m/babadamino)  
-
-Thanks for stopping by!
+## Connect with Me  
+- **[Neocities](https://sparkua.neocities.org)**
+- **[Roblox Profile](https://rblx.name/3282155125)**
